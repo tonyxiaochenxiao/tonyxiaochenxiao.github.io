@@ -38,7 +38,8 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     <p class="archive__item-excerpt" itemprop="description">
       {% if post.location %}<i class="fa fa-location-dot" aria-hidden="true"></i> {{post.location}}{% endif %}<br>
-      {% if post.type %}<i>{{post.type}}</i>: {{ post.venue }}{% endif %}
+      {% if post.venue %}<i class="fa fa-building-columns" aria-hidden="true"></i> {{post.venue}}{% endif %}<br>
+      {% if post.type %}<i class="fa fa-book" aria-hidden="true"></i>{{post.type}}{% endif %}
     </p>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
