@@ -39,7 +39,7 @@
     <p class="archive__item-excerpt" itemprop="description">
       {% if post.location %}<i class="fa fa-location-dot" aria-hidden="true"></i> {{post.location}}{% endif %}<br>
       {% if post.venue %}<i class="fa fa-building-columns" aria-hidden="true"></i> {{post.venue}}{% endif %}<br>
-      {% if post.type %}<i class="fa fa-book" aria-hidden="true"></i>{{post.type}}{% endif %}
+      {% if post.type %}<i class="fa fa-book" aria-hidden="true"></i> {{post.type}}{% endif %}
     </p>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
