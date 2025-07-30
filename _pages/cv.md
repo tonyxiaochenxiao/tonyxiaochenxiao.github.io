@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Ph.D in Mathematics, Northeastern University, 2026 (expected)
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Mathematics, Northeastern University, 2021
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Intelligent Transportation, Beijing University of Technology, 2019
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Ph.D in Mathematics, Northeastern University, 2026 (expected) <br>
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Mathematics, Northeastern University, 2021 <br>
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Intelligent Transportation, Beijing University of Technology, 2019 <br>
 
 Work experience
 ======
