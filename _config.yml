@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Tony Xiao"
 title_separator          : "-"
 name                     : &name "Tony Xiaochen Xiao"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "Boston, United States"
   employer         : "Northeastern University"
   uri              : # URL
-  email            : "xiao.xiaoc at northeastern dot edu" 
+  email            : "xiao.xiaoc at northeastern.edu" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : # "tonyxiaochenxiao"
+  kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
