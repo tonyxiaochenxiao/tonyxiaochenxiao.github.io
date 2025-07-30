@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tony Xiao"
+title                    : "Tony Xiaochen Xiao"
 title_separator          : "-"
 name                     : &name "Tony Xiaochen Xiao"
 description              : &description "personal description"
