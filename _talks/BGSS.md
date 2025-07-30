@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 link: https://www.brandeis.edu/mathematics/talks.html
 permalink: /talks/Bgss
-venue: "Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles"
+venue: "Brandeis University"
 date: 2023-10-05
-location: "Brandeis University, Boston, USA"
+location: "Boston, USA"
 ---
