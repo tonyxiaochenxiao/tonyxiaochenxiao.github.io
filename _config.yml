@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tony Xiaochen Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. in Mathematics"
+  location         : "Boston, United States"
+  employer         : "Northeastern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiao.xiaoc at northeastern dot edu" 
 
   # Academic websites
   academia         : # URL
