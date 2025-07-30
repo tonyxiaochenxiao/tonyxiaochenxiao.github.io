@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Ph.D in Mathematics, Northeastern University, 2026 (expected)
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Mathematics, Northeastern University, 2021
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Intelligent Transportation, Beijing University of Technology, 2019
 
 Work experience
 ======
