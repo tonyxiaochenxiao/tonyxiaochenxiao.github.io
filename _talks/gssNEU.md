@@ -1,5 +1,5 @@
 ---
-title: "Graduate Student Seminar at Northeastern"
+title: "Mathematics Graduate Student Seminar at Northeastern"
 collection: talks
 type: "Contributed talk"
 link: https://mgss.sites.northeastern.edu/
