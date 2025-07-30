@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Intro to Math Reasoning"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Northeastern University"
 date: 2014-01-01
-location: "City, Country"
+location: "Boston, US"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
