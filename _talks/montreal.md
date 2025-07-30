@@ -1,5 +1,5 @@
 ---
-title: "Applications of Representation Theory in Topological Data Analysis & Geometric Invariant Theory 2024"
+title: "Montreal Summer School - Applications of Representation Theory in TDA & GIT"
 collection: talks
 type: "Poster presentation"
 link: https://sites.google.com/view/montreal-rep-summer-school2024/home
