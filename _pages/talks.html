@@ -11,10 +11,23 @@ author_profile: true
 
 {% endif %}
 
-Test1
-
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-Test2
+Some pictures of my talks
+------
+<div style="display: flex; flex-wrap: wrap; gap: 24 px; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="/images/Jun2025.jpg" alt="Talk in June 2025" style="width: 300 px; border-radius: 8 px;">
+    <figcaption>June 2025 – KTH, Stockholm</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/Mar2024.jpg" alt="Talk in March 2024" style="width: 300 px; border-radius: 8 px;">
+    <figcaption>March 2024 – Northeastern</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/Oct2023.JPG" alt="Talk in October 2023" style="width: 300 px; border-radius: 8 px;">
+    <figcaption>October 2023 – Brandeis</figcaption>
+  </figure>
+</div>
