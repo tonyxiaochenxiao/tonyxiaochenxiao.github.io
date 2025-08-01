@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at Northeastern University.
+I am a PhD Candidate in Mathematics at Northeastern University. My PhD advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://knudsen.sites.northeastern.edu/).
 
-My research interest covers XXX.
+My research interests include topological data analysis, more specifically, the further interpretation of persistence diagrams, the applications of sheaf theory, and dimensionality reduction.
 
-Link is shown as this: [link text](https://github.com/academicpages/academicpages.github.io)
+I'm currently the vice president of the [AMS Graduate Student Chapter](https://www.ams.org/membership/studentchapters) at Northeastern University, as of January 2024.
 
 Title 2
 ======
