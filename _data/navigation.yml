@@ -20,8 +20,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Events"
-    url: /events/
+  - title: "Activities"
+    url: /activities/
 
   # - title: "Blogs"
   #  url: /year-archive/
