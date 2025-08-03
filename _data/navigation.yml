@@ -21,7 +21,10 @@ main:
     url: /portfolio/
         
   - title: "Events"
-    url: /year-archive/
+    url: /events/
+
+  # - title: "Blogs"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
