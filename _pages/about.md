@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Ph.D. Candidate in Mathematics at Northeastern University. My PhD advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://knudsen.sites.northeastern.edu/).
+I am a 5th-year Ph.D. Candidate in Mathematics at Northeastern University. My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://knudsen.sites.northeastern.edu/).
 
 My research interests include algebraic topology and data analysis. More specific subfields of interest include topological data analysis, the further interpretation of persistence diagrams, the applications of sheaf theory, and dimensionality reduction.
 
