@@ -16,9 +16,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Activities"
     url: /activities/
@@ -28,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Others"
+    url: /others/
     
   # - title: "CV"
   #   url: /cv-json/
