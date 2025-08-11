@@ -11,7 +11,9 @@ I am a 5th-year Ph.D. Candidate in Mathematics at Northeastern University. My Ph
 
 My research interests include algebraic topology and data analysis. More specific subfields of interest include topological data analysis, the further interpretation of persistence diagrams, the applications of sheaf theory, and dimensionality reduction.
 
-I'm currently the vice president of the [AMS Graduate Student Chapter](https://www.ams.org/membership/studentchapters) at Northeastern University, as of January 2024.
+Please see my [teaching](https://tonyxiaochenxiao.github.io/teaching/), [research](https://tonyxiaochenxiao.github.io/research/), [talks](https://tonyxiaochenxiao.github.io/talks/), and [activities](https://tonyxiaochenxiao.github.io/activities/) subpages for academic details. To personally learn more about me, see [others](https://tonyxiaochenxiao.github.io/others/).
+
+At Northeastern University, I'm currently the vice president of the [AMS Graduate Student Chapter](https://www.ams.org/membership/studentchapters) at Northeastern University, as of January 2024.
 
 Title 2
 ======
