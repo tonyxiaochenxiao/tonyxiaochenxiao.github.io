@@ -9,9 +9,10 @@ redirect_from:
 
 I am a 5th-year Ph.D. Candidate in Mathematics at Northeastern University. My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://knudsen.sites.northeastern.edu/).
 
-My research interests include algebraic topology and data analysis. More specific subfields of interest include topological data analysis, the further interpretation of persistence diagrams, the applications of sheaf theory, and dimensionality reduction.
+My research interests include algebraic topology and its application in data analysis. Specifically, I am interested in the further interpretation of persistence diagrams and the generalization of circular coordinates. The theoretical background I have been working with consists of homology and homotopy theory, sheaf theory, bundle theory, and dimensionality reduction methods.
 
-Please see my [teaching](https://tonyxiaochenxiao.github.io/teaching/), [research](https://tonyxiaochenxiao.github.io/research/), [talks](https://tonyxiaochenxiao.github.io/talks/), and [activities](https://tonyxiaochenxiao.github.io/activities/) subpages for academic details. To personally learn more about me, see [others](https://tonyxiaochenxiao.github.io/others/).
+Please see my [teaching](https://tonyxiaochenxiao.github.io/teaching/), [research](https://tonyxiaochenxiao.github.io/research/), [talks](https://tonyxiaochenxiao.github.io/talks/), and [activities](https://tonyxiaochenxiao.github.io/activities/) subpages for academic details. 
+<!-- To personally learn more about me, see [others](https://tonyxiaochenxiao.github.io/others/). -->
 
 At Northeastern University, I'm currently the vice president of the [AMS Graduate Student Chapter](https://www.ams.org/membership/studentchapters) at Northeastern University, as of January 2024.
 
