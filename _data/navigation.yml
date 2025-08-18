@@ -27,8 +27,8 @@ main:
     url: /files/Academic_CV.pdf
     # url: /cv/
 
-  - title: "Others"
-    url: /others/
+  # - title: "Others"
+  #  url: /others/
     
   # - title: "CV"
   #   url: /cv-json/
