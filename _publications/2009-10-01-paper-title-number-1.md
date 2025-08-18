@@ -3,8 +3,6 @@ title: "Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles"
 collection: publications
 category: manuscripts
 permalink: /publication/dreimac
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
 ---
 The current project I am working on is called ”Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles”, and it provides a way of extracting topological information from point cloud data using algebraic topology tools. As this project recently comes to a complete stage, I would be very excited to present the academic results and make connections with prestigious speakers at the conference to discuss developments and difficulties in TDA, and possibly the connection of my research with them.
 
