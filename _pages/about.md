@@ -9,7 +9,9 @@ redirect_from:
 
 I am a 5th-year Ph.D. Candidate in [Mathematics at Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/). My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://knudsen.sites.northeastern.edu/).
 
-My research interests include algebraic topology and its application in data analysis. Specifically, I am interested in the further interpretation of persistence diagrams and the generalization of circular coordinates. The theoretical background I have been working with consists of homology and homotopy theory, sheaf theory, bundle theory, and dimensionality reduction methods.
+My research is in applied/computational topology and the mathematical foundations of data science. I am particularly interested in the interplay between algebraic/geometric topology, algorithms, and applications in science and engineering. 
+
+Currently, I focus on developing rigorous theoretical frameworks that transform abstract topological invariants into interpretable geometric coordinates, with applications in data science such as the development of non-linear dimensionality reduction methodology. My work bridges pure mathematical theory — including sheaf theory, principal bundles, and homotopy theory — with computational methods for analyzing complex, high-dimensional datasets.
 
 Please see my [teaching](https://tonyxiaochenxiao.github.io/teaching/), [research](https://tonyxiaochenxiao.github.io/research/), [talks](https://tonyxiaochenxiao.github.io/talks/), and [activities](https://tonyxiaochenxiao.github.io/activities/) subpages for academic details. 
 <!-- To personally learn more about me, see [others](https://tonyxiaochenxiao.github.io/others/). -->
