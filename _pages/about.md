@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Ph.D. Candidate in [Mathematics at Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/). My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://knudsen.sites.northeastern.edu/).
+I am a 5th-year Ph.D. Candidate in [Mathematics at Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/). My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://sites.google.com/view/bknudsen/home).
 
-My research is in applied/computational topology and the mathematical foundations of data science. I am particularly interested in the interplay between algebraic/geometric topology, algorithms, and applications in science and engineering. 
+My research is in applied and computational topology, with a particular focus on cohomological methods, sheaf theory, principal bundles, and the mathematical foundations of data analysis. I am particularly interested in the interplay between algebraic/geometric topology, algorithmic constructions, and applications in science and engineering.
 
-Currently, I focus on developing rigorous theoretical frameworks that transform abstract topological invariants into interpretable geometric coordinates, with applications in data science such as the development of non-linear dimensionality reduction methodology. My work bridges pure mathematical theory — including sheaf theory, principal bundles, and homotopy theory — with computational methods for analyzing complex, high-dimensional datasets.
+Currently, I focus on developing rigorous theoretical frameworks that transform abstract topological invariants into interpretable geometric coordinates, with applications in data science, such as the development of non-linear dimensionality reduction methodology. My work bridges pure mathematical theory — including sheaf theory, principal bundles, and homotopy theory — with computational methods for analyzing complex, high-dimensional datasets.
 
 Please see my [teaching](https://tonyxiaochenxiao.github.io/teaching/), [research](https://tonyxiaochenxiao.github.io/research/), [talks](https://tonyxiaochenxiao.github.io/talks/), and [activities](https://tonyxiaochenxiao.github.io/activities/) subpages for academic details. 
 <!-- To personally learn more about me, see [others](https://tonyxiaochenxiao.github.io/others/). -->
 
-At Northeastern University, I'm currently the vice president of the [AMS Graduate Student Chapter](https://www.ams.org/membership/studentchapters) at Northeastern University, as of January 2024.
+I'm currently the vice president of the [AMS Graduate Student Chapter](https://www.ams.org/membership/studentchapters) at Northeastern University, as of January 2024.
 
 <!--
 
