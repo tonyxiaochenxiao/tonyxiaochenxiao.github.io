@@ -3,6 +3,7 @@ title: "Extracting Sparse Eilenberg-MacLane Coordinates via Soft sheaves"
 collection: publications
 category: manuscripts
 permalink: /publication/dreimac
+date: 2026-03-01
 ---
 The current project I am working on, with my advisor Jose A. Perea, is called "Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles", and it provides a way of extracting topological information from point cloud data using algebraic topology tools.
 
