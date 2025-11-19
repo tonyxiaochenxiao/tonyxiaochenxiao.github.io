@@ -1,13 +1,15 @@
 ---
-title: "Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles"
+title: "Extracting Sparse Eilenberg-MacLane Coordinates via Soft sheaves"
 collection: publications
 category: manuscripts
 permalink: /publication/dreimac
 ---
-The current project I am working on is called ”Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles”, and it provides a way of extracting topological information from point cloud data using algebraic topology tools. As this project recently comes to a complete stage, I would be very excited to present the academic results and make connections with prestigious speakers at the conference to discuss developments and difficulties in TDA, and possibly the connection of my research with them.
+The current project I am working on, with my advisor Jose A. Perea, is called "Extracting Sparse Eilenberg-MacLane Coordinates via Principal Bundles", and it provides a way of extracting topological information from point cloud data using algebraic topology tools.
 
-Abstract:
-Let $$X$$ be a finite data set sampled from an unknown metric space $$(\mathbb{X},d)$$. The problem this project seeks to address is to develop methods for generating "Eilenberg-MacLane Coordinates", i.e. functions $$ f: X \to K(G,n) $$ characterizing the non-trivial persistent cohomology classes in $$ PH^n(R(X); G) $$. Using the theory of principal bundles, soft sheaves, and Cech Cohomology, we aim to explicit formulas, a stability theory, and algorithms to generate such "Eilenberg-MacLane Coordinates" for any discrete Abelian group $$G$$. A complete proof chain of a one-to-one correspondence connecting $$PH^n(R(X); G)$$ and $$f: X -> K(G,n)$$ is presented, with an explicit formula for computing these coordinates, and as the following work, an explicit algorithm is being extracted from this proof chain in ongoing research.
+We present in this paper an application of the sheaf theory to the problem of nonlinear dimensionality reduction in data analysis. Specifically, we construct Eilenberg-MacLane coordinates — functions from data to Eilenberg-MacLane spaces $$K(G,n)$$ — that encode nontrivial persistent cohomology classes in arbitrary dimensions $$n$$ and coefficients $$G$$. Using soft sheaf theory, we establish a pipeline from persistent cohomology classes to the homotopy classes of such coordinate functions, extending previous results on circular, projective, and lens coordinates to all dimensions and arbitrary discrete Abelian groups. Crucially, our proof is constructive: we derive explicit formulas via inverses of Čech coboundary operators, yielding a recursive algorithm with polynomial complexity based on matrix computations. We validate our approach through experiments on synthetic datasets, and present novel examples of $$K(\mathbb{Z}/2, 2)$$-coordinates not addressed in prior work.
+
+This project has recently come to a complete stage, and a paper is being written on it. A manuscript of this paper can be found [here](https://github.com/tonyxiaochenxiao/tonyxiaochenxiao.github.io/blob/master/files/Paper_V7.2.pdf).
+
 <div style="display: flex; flex-direction: column; gap: 24px; align-items: center;">
   <img src="/images/Poster_Tony.png" alt="Poster_Tony" style="width: 100%; height: auto; border-radius: 6px;">
 </div>
