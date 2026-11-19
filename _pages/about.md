@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Ph.D. Candidate in [Mathematics at Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/). My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://sites.google.com/view/bknudsen/home).
+I am a 6th-year Ph.D. Candidate in [Mathematics at Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/). My academic advisor is [Jose A. Perea](https://www.joperea.com/), and my mentor is [Ben Knudsen](https://sites.google.com/view/bknudsen/home).
 
 My research is in applied and computational topology, with a particular focus on cohomological methods, sheaf theory, principal bundles, and the mathematical foundations of data analysis. I am particularly interested in the interplay between algebraic/geometric topology, algorithmic constructions, and applications in science and engineering.
 

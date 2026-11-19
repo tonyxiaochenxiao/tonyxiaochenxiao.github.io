@@ -40,3 +40,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ===== Site-wide link style (edit here) =====
+   Link colors live in _sass/theme/_default.scss (light) and _sass/theme/_dark.scss (dark):
+   --global-link-color / --global-link-color-hover / --global-link-color-visited */
+a,
+a:hover,
+a:focus,
+.archive__item-title {
+  text-decoration: none !important;
+}
