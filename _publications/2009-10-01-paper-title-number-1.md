@@ -3,7 +3,8 @@ title: "From Persistent Cohomology to Maps into Arbitrary Eilenberg-MacLane Spac
 collection: publications
 category: manuscripts
 permalink: /publication/dreimac
-date: 2026-11-17
+date: 2026-11-18
+arxiv: "2611.23659"
 coauthors: "Jose A. Perea (Northeastern University)"
 authors: "Tony Xiaochen Xiao, Jose A. Perea"
 excerpt: 'We develop a methodology for constructing maps from datasets to Eilenberg–MacLane spaces $$K(G,n)$$ that realize persistent cohomology classes in arbitrary degree $$n$$ with arbitrary coefficient group $$G$$, via an explicit recursive inverse of the Čech connecting homomorphism arising from the universal principal bundle $$G\to EG\to BG$$. Through a constructive proof of the cohomology vanishing theorem, we design a general algorithm, unifying prior circular, projective, and lens coordinates and producing the first computed examples of $$K(\mathbb{Z}/2,2)$$-coordinates. We implement the full algorithm in an open-source Python library, [Eilenberg–MacLane Coordinates](https://github.com/tonyxiaochenxiao/Eilenberg-MacLane-Coordinates).'

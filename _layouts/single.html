@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' and page.date %}
-          {% if page.authors %}<p>{{ page.authors }}</p>{% endif %}
+          {% if page.authors %}<p>{{ page.authors }}{% if page.arxiv %} [<a href="https://arxiv.org/abs/{{ page.arxiv }}">Preprint arXiv</a>]{% endif %}</p>{% endif %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Submitted:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
